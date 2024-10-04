@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pibne.github.io/zCm/sitemap.zCm.gz
